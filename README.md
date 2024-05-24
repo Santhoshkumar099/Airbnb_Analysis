@@ -63,7 +63,7 @@ The app includes various visualizations created using Plotly and Matplotlib:
 * [Plotly Documentation](https://plotly.com/python/)
 
 ### Contact
-LINKEDIN: [https://www.linkedin.com/in/santhosh-kumar-2040ab188/]            
+LINKEDIN: https://www.linkedin.com/in/santhosh-kumar-2040ab188/           
 EMAIL : sksanthoshhkumar@gmail.com
 
 ## License
